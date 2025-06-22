@@ -1,0 +1,38 @@
+[
+  {
+    "items": [
+      {
+        "id": "m1",
+        "name": "Margherita Pizza",
+        "price": "378",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 1
+      },
+      {
+        "id": "m2",
+        "name": "Caesar Salad",
+        "price": "263",
+        "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+        "image": "images/caesar-salad.jpg",
+        "quantity": 5
+      },
+      {
+        "id": "m3",
+        "name": "Noodles",
+        "price": "180",
+        "description": "Stir-fried noodles with vegetables in savory sauces, a quick Asian delight.",
+        "image": "images/noodles.jpg",
+        "quantity": 1
+      }
+    ],
+    "customer": {
+      "name": "csac",
+      "email": "csacas@svsv.vs",
+      "street": "cvsvs 45",
+      "postal-code": "436436",
+      "city": " xzx dsvs"
+    },
+    "id": "773.7559485215497"
+  }
+]

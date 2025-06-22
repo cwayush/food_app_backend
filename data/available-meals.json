@@ -1,0 +1,226 @@
+[
+  {
+    "id": "m0",
+    "name": "Cheese",
+    "price": "246",
+    "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+    "image": "images/mac-and-cheese.jpg"
+  },
+  {
+    "id": "m1",
+    "name": "Margherita Pizza",
+    "price": "378",
+    "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m2",
+    "name": "Caesar Salad",
+    "price": "263",
+    "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+    "image": "images/caesar-salad.jpg"
+  },
+  {
+    "id": "m3",
+    "name": "Noodles",
+    "price": "180",
+    "description": "Stir-fried noodles with vegetables in savory sauces, a quick Asian delight.",
+    "image": "images/noodles.jpg"
+  },
+  {
+    "id": "m4",
+    "name": "Momos",
+    "price": "197",
+    "description": "Steamed dumplings filled with veggies and served with spicy chutney.",
+    "image": "images/momos.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Veg Wrap",
+    "price": "120",
+    "description": "Soft wrap loaded with spiced veggies and sauces for a perfect bite.",
+    "image": "images/veg_wrap.jpg"
+  },
+  {
+    "id": "m6",
+    "name": "Mix Veg",
+    "price": "222",
+    "description": "Healthy mix of seasonal vegetables saut\u00e9ed with Indian spices.",
+    "image": "images/mix_veg.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "South Indian Thali",
+    "price": "195",
+    "description": "A traditional platter with rice, sambar, rasam, papad, and more.",
+    "image": "images/south_indian_thali.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Maharaja Thali",
+    "price": "944",
+    "description": "A royal Indian meal combo with rich curries, breads, and desserts.",
+    "image": "images/maharaja_thali.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Rajasthani Meal",
+    "price": "558",
+    "description": "Authentic Rajasthani dishes like dal bati churma served together.",
+    "image": "images/rajasthani_meal.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Thali",
+    "price": "212",
+    "description": "Indian-style combo meal with rice, curry, roti, and sides.",
+    "image": "images/thali.jpg"
+  },
+  {
+    "id": "m11",
+    "name": "High Protein Meal",
+    "price": "220",
+    "description": "Protein-rich meal with lentils, paneer, and grains for fitness lovers.",
+    "image": "images/high_protein_meal.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Malai Chaap",
+    "price": "295",
+    "description": "Creamy marinated soya chaap grilled to perfection.",
+    "image": "images/malai_chaap.jpg"
+  },
+  {
+    "id": "m13",
+    "name": "Tandoori Chaap",
+    "price": "278",
+    "description": "Soya chaap roasted in tandoor with spicy marinade.",
+    "image": "images/tandoori_chaap.jpg"
+  },
+  {
+    "id": "m14",
+    "name": "Veg Biryani",
+    "price": "300",
+    "description": "Aromatic rice with mixed vegetables and traditional biryani spices.",
+    "image": "images/veg_briyani.jpg"
+  },
+  {
+    "id": "m15",
+    "name": "Aloo Paratha",
+    "price": "97",
+    "description": "Stuffed flatbread with spiced mashed potatoes, served with butter.",
+    "image": "images/alo_paratha.avif"
+  },
+  {
+    "id": "m16",
+    "name": "Burger Meal",
+    "price": "219",
+    "description": "Delicious burger served with fries and dip for a complete treat.",
+    "image": "images/burger_meal.webp"
+  },
+  {
+    "id": "m17",
+    "name": "Spaghetti Carbonara",
+    "price": "512",
+    "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
+    "image": "images/spaghetti-carbonara.jpg"
+  },
+  {
+    "id": "m18",
+    "name": "Veggie Burger",
+    "price": "129",
+    "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+    "image": "images/veggie-burger.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Grilled Chicken Sandwich",
+    "price": "112",
+    "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
+    "image": "images/grilled-chicken-sandwich.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Steak Frites",
+    "price": "493",
+    "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
+    "image": "images/steak-frites.jpg"
+  },
+  {
+    "id": "m21",
+    "name": "Sushi Roll Platter",
+    "price": "327",
+    "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
+    "image": "images/sushi-roll-platter.jpg"
+  },
+  {
+    "id": "m22",
+    "name": "Chicken Curry",
+    "price": "461",
+    "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m23",
+    "name": "Vegan Buddha Bowl",
+    "price": "395",
+    "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
+    "image": "images/vegan-buddha-bowl.jpg"
+  },
+  {
+    "id": "m24",
+    "name": "Seafood Paella",
+    "price": "659",
+    "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and chorizo.",
+    "image": "images/seafood-paella.jpg"
+  },
+  {
+    "id": "m25",
+    "name": "Pancake Stack",
+    "price": "546",
+    "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m26",
+    "name": "Chocolate Brownie",
+    "price": "197",
+    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "image": "images/chocolate-brownie.jpg"
+  },
+  {
+    "id": "m27",
+    "name": "Lobster Bisque",
+    "price": "444",
+    "description": "A creamy soup made from lobster stock, aromatic vegetables, and a touch of brandy.",
+    "image": "images/lobster-bisque.jpg"
+  },
+  {
+    "id": "m28",
+    "name": "Mushroom Risotto",
+    "price": "261",
+    "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+    "image": "images/mushroom-risotto.jpg"
+  },
+  {
+    "id": "m29",
+    "name": "Eggplant Parmesan",
+    "price": "395",
+    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+    "image": "images/eggplant-parmesan.jpg"
+  },
+  {
+    "id": "m30",
+    "name": "Lemon Cheesecake",
+    "price": "580",
+    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m31",
+    "name": "Falafel Wrap",
+    "price": "546",
+    "description": "Crispy falafels wrapped in a warm pita with lettuce, tomatoes, and a tahini sauce.",
+    "image": "images/falafel-wrap.jpg"
+  }
+]
